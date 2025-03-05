@@ -17,9 +17,9 @@ E-Comm Pro is a scalable, secure, and user-friendly e-commerce platform designed
 ## Testing & Deployment: 5 weeks
 ## Risk Management:
 
-User Acceptance Delays: Addressed by early stakeholder engagement and clear review deadlines.
-Resource Constraints: Managed through optimized task allocation and project management tools (Trello, Jira, Gantt Charts).
-Change Request Impact:
+## User Acceptance Delays: Addressed by early stakeholder engagement and clear review deadlines.
+## Resource Constraints: Managed through optimized task allocation and project management tools (Trello, Jira, Gantt Charts).
+## Change Request Impact:
 Additional features (e.g., multi-currency support) may extend the timeline by 3 weeks. Possible mitigations include resource reallocation, feature postponement, or deprioritization of non-critical tasks.
 
 ## Recommendations:
@@ -37,7 +37,7 @@ If the project exceeds the 16-week timeline, options include postponing non-esse
 
 
 
-Search
 
-Reason
+
+
 
